@@ -1,0 +1,12 @@
+password=biequdong
+authorization_token=6edb5626ae5182af03fe9ecdb1835cd6-13cd9026590262e9b32d7792e4594dd1
+isSecurity=false
+securityMoney=1.0
+EURUSD=EURUSD-2
+USDJPY=USDJPY-2
+AUDUSD=AUDUSD-2
+NZDUSD=NZDUSD-2
+USDCAD=USDCAD-2
+USDCHF=USDCHF-2
+GBPUSD=GBPUSD-2
+apiurl=https://api-fxtrade.oanda.com
